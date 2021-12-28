@@ -1,0 +1,29 @@
+//FIRST OUTPUT
+Enter quiz score or 999 to quit >>>
+21
+Enter next quiz score or 999 to quit >>  
+89
+Enter next quiz score or 999 to quit >>  
+00
+Enter next quiz score or 999 to quit >>  
+66
+Enter next quiz score or 999 to quit >>  
+80
+Enter next quiz score or 999 to quit >>  
+56
+Enter next quiz score or 999 to quit >>  
+88
+Enter next quiz score or 999 to quit >>  
+99
+Enter next quiz score or 999 to quit >>  
+14
+Enter next quiz score or 999 to quit >>  
+98
+
+The scores entered were: 21 89 0 66 80 56 88 99 14 98 
+The average is 61.1
+//SECOND OUTPUT
+Enter quiz score or 999 to quit >>>
+999
+
+The scores entered were: No scores were entered 
