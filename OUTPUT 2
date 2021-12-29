@@ -1,0 +1,13 @@
+Enter five numbers one number per line
+1
+2
+3
+4
+5
+Numbers are : index 0 = 1
+Numbers are : index 1 = 2
+Numbers are : index 2 = 3
+Numbers are : index 3 = 4
+Numbers are : index 4 = 5
+The sum of the numbers = 15
+The average of the numbers = 3
