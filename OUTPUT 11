@@ -1,0 +1,11 @@
+Enter five grades one number per line
+a
+B
+A
+C
+D
+Levels are : grade 0 = 'a'
+Levels are : grade 1 = 'B'
+Levels are : grade 2 = 'A'
+Levels are : grade 3 = 'C'
+Levels are : grade 4 = 'D'
