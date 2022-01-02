@@ -1,0 +1,13 @@
+Enter five marks one number per line
+23
+12
+34
+56
+4
+Marks are : test 0 = 23
+Marks are : test 1 = 12
+Marks are : test 2 = 34
+Marks are : test 3 = 56
+Marks are : test 4 = 4
+The sum of the marks = 129
+The average of the marks = 25
